@@ -19,7 +19,7 @@ Bien que la programmation et les mathématiques soient essentielles pour le dév
 - **Animation d'objets virtuels** : voitures, bateaux, drones, et plus encore.
 - **Cartographie de l'espace de jeu par le dessin**
 - **Création collaborative de niveaux de jeu**
-- **Conception d’éléments pour le jeu avec Sketch Blocks**
+- **Conception d’éléments pour le jeu avec [Poly Sketch](https://github.com/EloiStree/HelloPaintingJam/issues/43)**
 - **Importation d'objets depuis Internet**
 - **Décoration personnalisée d'un bateau pirate**
 - **Création de circuits dans le bâtiment**
