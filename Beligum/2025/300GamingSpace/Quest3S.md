@@ -97,5 +97,6 @@ Cet atelier est open source. Vous pouvez le réorganiser ou vous en inspirer lib
 
 Si vous souhaitez une version adaptée en Belgique, n’hésitez pas à me contacter.
 
-Cet atelier s'inscrit dans le cadre de la chaîne *Eloi Teaching* et du projet *Eloi Laboratory RC*, qui vise à initier la communauté à la création, au codage et au jeu XR.  
-Suivez-nous sur [https://www.youtube.com/@EloiTeaching](https://www.youtube.com/@EloiTeaching)
+Organisé et proposé par l’espace 300 Gaming Space.
+La conception de cet atelier s’inscrit dans la continuité du projet Eloi Laboratory RC, dont la mission est d’initier la communauté à la création, au codage et aux jeux XR.
+Suivez-nous sur : https://www.youtube.com/@EloiTeaching
